@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Repositório_Export-Word-PDF\bin\Debug\netcoreapp2.2\Repositório_Export-Word-PDF.deps.json
+C:\Users\fic\Desktop\Repositório_Export-Word-PDF\bin\Debug\netcoreapp2.2\Repositório_Export-Word-PDF.runtimeconfig.json
+C:\Users\fic\Desktop\Repositório_Export-Word-PDF\bin\Debug\netcoreapp2.2\Repositório_Export-Word-PDF.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Repositório_Export-Word-PDF\bin\Debug\netcoreapp2.2\Repositório_Export-Word-PDF.dll
+C:\Users\fic\Desktop\Repositório_Export-Word-PDF\bin\Debug\netcoreapp2.2\Repositório_Export-Word-PDF.pdb
+C:\Users\fic\Desktop\Repositório_Export-Word-PDF\obj\Debug\netcoreapp2.2\Repositório_Export-Word-PDF.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Repositório_Export-Word-PDF\obj\Debug\netcoreapp2.2\Repositório_Export-Word-PDF.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Repositório_Export-Word-PDF\obj\Debug\netcoreapp2.2\Repositório_Export-Word-PDF.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Repositório_Export-Word-PDF\obj\Debug\netcoreapp2.2\Repositório_Export-Word-PDF.AssemblyInfo.cs
+C:\Users\fic\Desktop\Repositório_Export-Word-PDF\obj\Debug\netcoreapp2.2\Repositório_Export-Word-PDF.dll
+C:\Users\fic\Desktop\Repositório_Export-Word-PDF\obj\Debug\netcoreapp2.2\Repositório_Export-Word-PDF.pdb
